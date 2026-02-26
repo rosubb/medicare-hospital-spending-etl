@@ -1,0 +1,201 @@
+index,Hospital Name,Provider Number ,State,Period,Claim Type,Avg Spending Per Episode (Hospital),Avg Spending Per Episode (State),Avg Spending Per Episode (Nation),Percent of Spending (Hospital),Percent of Spending (State),Percent of Spending (Nation),Measure Start Date,Measure End Date
+0,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$12,$14,$13,0.06%,0.07%,0.07%,01/01/2014,12/31/2014
+1,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$1,$1,$1,0.01%,0.01%,0%,01/01/2014,12/31/2014
+2,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$6,$6,$5,0.03%,0.03%,0.03%,01/01/2014,12/31/2014
+3,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$160,$85,$117,0.84%,0.46%,0.58%,01/01/2014,12/31/2014
+4,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$1,$2,$2,0.01%,0.01%,0.01%,01/01/2014,12/31/2014
+5,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$6,$9,$9,0.03%,0.05%,0.04%,01/01/2014,12/31/2014
+6,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$462,$492,$532,2.43%,2.65%,2.66%,01/01/2014,12/31/2014
+7,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+8,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+9,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Inpatient,$8981,$8723,$9108,47.21%,46.91%,45.48%,01/01/2014,12/31/2014
+10,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+11,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+12,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Durable Medical Equipment,$27,$32,$24,0.14%,0.17%,0.12%,01/01/2014,12/31/2014
+13,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,During Index Hospital Admission,Carrier,$1587,$1435,$1514,8.34%,7.71%,7.56%,01/01/2014,12/31/2014
+14,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$988,$898,$771,5.2%,4.83%,3.85%,01/01/2014,12/31/2014
+15,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$137,$141,$118,0.72%,0.76%,0.59%,01/01/2014,12/31/2014
+16,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2943,$2607,$2665,15.47%,14.02%,13.31%,01/01/2014,12/31/2014
+17,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$654,$596,$710,3.44%,3.2%,3.54%,01/01/2014,12/31/2014
+18,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$1946,$2437,$3251,10.23%,13.1%,16.23%,01/01/2014,12/31/2014
+19,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$141,$124,$101,0.74%,0.67%,0.5%,01/01/2014,12/31/2014
+20,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$974,$995,$1083,5.12%,5.35%,5.41%,01/01/2014,12/31/2014
+21,SOUTHEAST ALABAMA MEDICAL CENTER,10001,AL,Complete Episode,Total,$19025,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+22,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$19,$14,$13,0.12%,0.07%,0.07%,01/01/2014,12/31/2014
+23,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
+24,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$0,$6,$5,0%,0.03%,0.03%,01/01/2014,12/31/2014
+25,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$91,$85,$117,0.55%,0.46%,0.58%,01/01/2014,12/31/2014
+26,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$1,$2,$2,0%,0.01%,0.01%,01/01/2014,12/31/2014
+27,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$6,$9,$9,0.03%,0.05%,0.04%,01/01/2014,12/31/2014
+28,MARSHALL MEDICAL CENTERS,10005,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$446,$492,$532,2.69%,2.65%,2.66%,01/01/2014,12/31/2014
+29,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+30,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+31,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Inpatient,$7186,$8723,$9108,43.38%,46.91%,45.48%,01/01/2014,12/31/2014
+32,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+33,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+34,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Durable Medical Equipment,$17,$32,$24,0.1%,0.17%,0.12%,01/01/2014,12/31/2014
+35,MARSHALL MEDICAL CENTERS,10005,AL,During Index Hospital Admission,Carrier,$934,$1435,$1514,5.64%,7.71%,7.56%,01/01/2014,12/31/2014
+36,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$836,$898,$771,5.05%,4.83%,3.85%,01/01/2014,12/31/2014
+37,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$179,$141,$118,1.08%,0.76%,0.59%,01/01/2014,12/31/2014
+38,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$1865,$2607,$2665,11.26%,14.02%,13.31%,01/01/2014,12/31/2014
+39,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$659,$596,$710,3.98%,3.2%,3.54%,01/01/2014,12/31/2014
+40,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$3488,$2437,$3251,21.06%,13.1%,16.23%,01/01/2014,12/31/2014
+41,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$103,$124,$101,0.62%,0.67%,0.5%,01/01/2014,12/31/2014
+42,MARSHALL MEDICAL CENTERS,10005,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$736,$995,$1083,4.44%,5.35%,5.41%,01/01/2014,12/31/2014
+43,MARSHALL MEDICAL CENTERS,10005,AL,Complete Episode,Total,$16566,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+44,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$15,$14,$13,0.08%,0.07%,0.07%,01/01/2014,12/31/2014
+45,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$2,$1,$1,0.01%,0.01%,0%,01/01/2014,12/31/2014
+46,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$1,$6,$5,0.01%,0.03%,0.03%,01/01/2014,12/31/2014
+47,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$74,$85,$117,0.41%,0.46%,0.58%,01/01/2014,12/31/2014
+48,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$1,$2,$2,0.01%,0.01%,0.01%,01/01/2014,12/31/2014
+49,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$6,$9,$9,0.03%,0.05%,0.04%,01/01/2014,12/31/2014
+50,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$464,$492,$532,2.57%,2.65%,2.66%,01/01/2014,12/31/2014
+51,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+52,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+53,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Inpatient,$8700,$8723,$9108,48.24%,46.91%,45.48%,01/01/2014,12/31/2014
+54,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+55,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+56,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Durable Medical Equipment,$25,$32,$24,0.14%,0.17%,0.12%,01/01/2014,12/31/2014
+57,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,During Index Hospital Admission,Carrier,$1371,$1435,$1514,7.6%,7.71%,7.56%,01/01/2014,12/31/2014
+58,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$902,$898,$771,5%,4.83%,3.85%,01/01/2014,12/31/2014
+59,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$129,$141,$118,0.71%,0.76%,0.59%,01/01/2014,12/31/2014
+60,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2445,$2607,$2665,13.56%,14.02%,13.31%,01/01/2014,12/31/2014
+61,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$532,$596,$710,2.95%,3.2%,3.54%,01/01/2014,12/31/2014
+62,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$2372,$2437,$3251,13.15%,13.1%,16.23%,01/01/2014,12/31/2014
+63,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$99,$124,$101,0.55%,0.67%,0.5%,01/01/2014,12/31/2014
+64,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$898,$995,$1083,4.98%,5.35%,5.41%,01/01/2014,12/31/2014
+65,ELIZA COFFEE MEMORIAL HOSPITAL,10006,AL,Complete Episode,Total,$18035,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+66,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$1,$14,$13,0%,0.07%,0.07%,01/01/2014,12/31/2014
+67,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$11,$1,$1,0.07%,0.01%,0%,01/01/2014,12/31/2014
+68,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$2,$6,$5,0.02%,0.03%,0.03%,01/01/2014,12/31/2014
+69,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$19,$85,$117,0.13%,0.46%,0.58%,01/01/2014,12/31/2014
+70,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$4,$2,$2,0.02%,0.01%,0.01%,01/01/2014,12/31/2014
+71,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$16,$9,$9,0.11%,0.05%,0.04%,01/01/2014,12/31/2014
+72,MIZELL MEMORIAL HOSPITAL,10007,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$400,$492,$532,2.64%,2.65%,2.66%,01/01/2014,12/31/2014
+73,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+74,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+75,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Inpatient,$5584,$8723,$9108,36.86%,46.91%,45.48%,01/01/2014,12/31/2014
+76,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+77,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+78,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Durable Medical Equipment,$13,$32,$24,0.09%,0.17%,0.12%,01/01/2014,12/31/2014
+79,MIZELL MEMORIAL HOSPITAL,10007,AL,During Index Hospital Admission,Carrier,$561,$1435,$1514,3.71%,7.71%,7.56%,01/01/2014,12/31/2014
+80,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$1035,$898,$771,6.83%,4.83%,3.85%,01/01/2014,12/31/2014
+81,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$115,$141,$118,0.76%,0.76%,0.59%,01/01/2014,12/31/2014
+82,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$1780,$2607,$2665,11.75%,14.02%,13.31%,01/01/2014,12/31/2014
+83,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$296,$596,$710,1.96%,3.2%,3.54%,01/01/2014,12/31/2014
+84,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$4454,$2437,$3251,29.4%,13.1%,16.23%,01/01/2014,12/31/2014
+85,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$113,$124,$101,0.74%,0.67%,0.5%,01/01/2014,12/31/2014
+86,MIZELL MEMORIAL HOSPITAL,10007,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$744,$995,$1083,4.91%,5.35%,5.41%,01/01/2014,12/31/2014
+87,MIZELL MEMORIAL HOSPITAL,10007,AL,Complete Episode,Total,$15149,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+88,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$57,$14,$13,0.42%,0.07%,0.07%,01/01/2014,12/31/2014
+89,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
+90,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$0,$6,$5,0%,0.03%,0.03%,01/01/2014,12/31/2014
+91,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$41,$85,$117,0.3%,0.46%,0.58%,01/01/2014,12/31/2014
+92,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$0,$2,$2,0%,0.01%,0.01%,01/01/2014,12/31/2014
+93,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$9,$9,$9,0.07%,0.05%,0.04%,01/01/2014,12/31/2014
+94,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$353,$492,$532,2.58%,2.65%,2.66%,01/01/2014,12/31/2014
+95,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+96,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+97,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Inpatient,$5350,$8723,$9108,39.08%,46.91%,45.48%,01/01/2014,12/31/2014
+98,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+99,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+100,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Durable Medical Equipment,$9,$32,$24,0.06%,0.17%,0.12%,01/01/2014,12/31/2014
+101,CRENSHAW COMMUNITY HOSPITAL,10008,AL,During Index Hospital Admission,Carrier,$420,$1435,$1514,3.07%,7.71%,7.56%,01/01/2014,12/31/2014
+102,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$747,$898,$771,5.46%,4.83%,3.85%,01/01/2014,12/31/2014
+103,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$105,$141,$118,0.77%,0.76%,0.59%,01/01/2014,12/31/2014
+104,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$668,$2607,$2665,4.88%,14.02%,13.31%,01/01/2014,12/31/2014
+105,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$461,$596,$710,3.37%,3.2%,3.54%,01/01/2014,12/31/2014
+106,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$4659,$2437,$3251,34.03%,13.1%,16.23%,01/01/2014,12/31/2014
+107,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$131,$124,$101,0.96%,0.67%,0.5%,01/01/2014,12/31/2014
+108,CRENSHAW COMMUNITY HOSPITAL,10008,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$680,$995,$1083,4.97%,5.35%,5.41%,01/01/2014,12/31/2014
+109,CRENSHAW COMMUNITY HOSPITAL,10008,AL,Complete Episode,Total,$13691,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+110,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$9,$14,$13,0.05%,0.07%,0.07%,01/01/2014,12/31/2014
+111,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
+112,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$7,$6,$5,0.04%,0.03%,0.03%,01/01/2014,12/31/2014
+113,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$111,$85,$117,0.59%,0.46%,0.58%,01/01/2014,12/31/2014
+114,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$1,$2,$2,0.01%,0.01%,0.01%,01/01/2014,12/31/2014
+115,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$7,$9,$9,0.04%,0.05%,0.04%,01/01/2014,12/31/2014
+116,ST. VINCENT'S EAST,10011,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$541,$492,$532,2.85%,2.65%,2.66%,01/01/2014,12/31/2014
+117,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+118,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+119,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Inpatient,$9081,$8723,$9108,47.87%,46.91%,45.48%,01/01/2014,12/31/2014
+120,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+121,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+122,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Durable Medical Equipment,$29,$32,$24,0.15%,0.17%,0.12%,01/01/2014,12/31/2014
+123,ST. VINCENT'S EAST,10011,AL,During Index Hospital Admission,Carrier,$1670,$1435,$1514,8.8%,7.71%,7.56%,01/01/2014,12/31/2014
+124,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$851,$898,$771,4.49%,4.83%,3.85%,01/01/2014,12/31/2014
+125,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$116,$141,$118,0.61%,0.76%,0.59%,01/01/2014,12/31/2014
+126,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2584,$2607,$2665,13.62%,14.02%,13.31%,01/01/2014,12/31/2014
+127,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$512,$596,$710,2.7%,3.2%,3.54%,01/01/2014,12/31/2014
+128,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$2357,$2437,$3251,12.42%,13.1%,16.23%,01/01/2014,12/31/2014
+129,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$100,$124,$101,0.53%,0.67%,0.5%,01/01/2014,12/31/2014
+130,ST. VINCENT'S EAST,10011,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$995,$995,$1083,5.25%,5.35%,5.41%,01/01/2014,12/31/2014
+131,ST. VINCENT'S EAST,10011,AL,Complete Episode,Total,$18971,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+132,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$20,$14,$13,0.13%,0.07%,0.07%,01/01/2014,12/31/2014
+133,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
+134,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$3,$6,$5,0.02%,0.03%,0.03%,01/01/2014,12/31/2014
+135,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$96,$85,$117,0.6%,0.46%,0.58%,01/01/2014,12/31/2014
+136,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$0,$2,$2,0%,0.01%,0.01%,01/01/2014,12/31/2014
+137,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$7,$9,$9,0.04%,0.05%,0.04%,01/01/2014,12/31/2014
+138,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$488,$492,$532,3.03%,2.65%,2.66%,01/01/2014,12/31/2014
+139,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+140,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+141,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Inpatient,$6609,$8723,$9108,41.09%,46.91%,45.48%,01/01/2014,12/31/2014
+142,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+143,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+144,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Durable Medical Equipment,$11,$32,$24,0.07%,0.17%,0.12%,01/01/2014,12/31/2014
+145,DEKALB REGIONAL MEDICAL CENTER,10012,AL,During Index Hospital Admission,Carrier,$628,$1435,$1514,3.91%,7.71%,7.56%,01/01/2014,12/31/2014
+146,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$677,$898,$771,4.21%,4.83%,3.85%,01/01/2014,12/31/2014
+147,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$192,$141,$118,1.19%,0.76%,0.59%,01/01/2014,12/31/2014
+148,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2720,$2607,$2665,16.91%,14.02%,13.31%,01/01/2014,12/31/2014
+149,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$542,$596,$710,3.37%,3.2%,3.54%,01/01/2014,12/31/2014
+150,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$3059,$2437,$3251,19.02%,13.1%,16.23%,01/01/2014,12/31/2014
+151,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$79,$124,$101,0.49%,0.67%,0.5%,01/01/2014,12/31/2014
+152,DEKALB REGIONAL MEDICAL CENTER,10012,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$952,$995,$1083,5.92%,5.35%,5.41%,01/01/2014,12/31/2014
+153,DEKALB REGIONAL MEDICAL CENTER,10012,AL,Complete Episode,Total,$16083,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+154,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$18,$14,$13,0.09%,0.07%,0.07%,01/01/2014,12/31/2014
+155,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
+156,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$3,$6,$5,0.01%,0.03%,0.03%,01/01/2014,12/31/2014
+157,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$39,$85,$117,0.2%,0.46%,0.58%,01/01/2014,12/31/2014
+158,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$5,$2,$2,0.02%,0.01%,0.01%,01/01/2014,12/31/2014
+159,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$4,$9,$9,0.02%,0.05%,0.04%,01/01/2014,12/31/2014
+160,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$567,$492,$532,2.9%,2.65%,2.66%,01/01/2014,12/31/2014
+161,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+162,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+163,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Inpatient,$8756,$8723,$9108,44.85%,46.91%,45.48%,01/01/2014,12/31/2014
+164,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+165,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+166,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Durable Medical Equipment,$35,$32,$24,0.18%,0.17%,0.12%,01/01/2014,12/31/2014
+167,SHELBY BAPTIST MEDICAL CENTER,10016,AL,During Index Hospital Admission,Carrier,$1546,$1435,$1514,7.92%,7.71%,7.56%,01/01/2014,12/31/2014
+168,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$1093,$898,$771,5.6%,4.83%,3.85%,01/01/2014,12/31/2014
+169,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$168,$141,$118,0.86%,0.76%,0.59%,01/01/2014,12/31/2014
+170,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2869,$2607,$2665,14.69%,14.02%,13.31%,01/01/2014,12/31/2014
+171,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$446,$596,$710,2.28%,3.2%,3.54%,01/01/2014,12/31/2014
+172,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$2712,$2437,$3251,13.89%,13.1%,16.23%,01/01/2014,12/31/2014
+173,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$104,$124,$101,0.53%,0.67%,0.5%,01/01/2014,12/31/2014
+174,SHELBY BAPTIST MEDICAL CENTER,10016,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$1159,$995,$1083,5.94%,5.35%,5.41%,01/01/2014,12/31/2014
+175,SHELBY BAPTIST MEDICAL CENTER,10016,AL,Complete Episode,Total,$19523,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+176,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$23,$14,$13,0.12%,0.07%,0.07%,01/01/2014,12/31/2014
+177,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$1,$1,$1,0.01%,0.01%,0%,01/01/2014,12/31/2014
+178,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Inpatient,$0,$6,$5,0%,0.03%,0.03%,01/01/2014,12/31/2014
+179,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Outpatient,$33,$85,$117,0.18%,0.46%,0.58%,01/01/2014,12/31/2014
+180,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Skilled Nursing Facility,$0,$2,$2,0%,0.01%,0.01%,01/01/2014,12/31/2014
+181,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Durable Medical Equipment,$8,$9,$9,0.04%,0.05%,0.04%,01/01/2014,12/31/2014
+182,HELEN KELLER HOSPITAL,10019,AL,1 to 3 days Prior to Index Hospital Admission,Carrier,$476,$492,$532,2.6%,2.65%,2.66%,01/01/2014,12/31/2014
+183,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Home Health Agency,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+184,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Hospice,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+185,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Inpatient,$7758,$8723,$9108,42.38%,46.91%,45.48%,01/01/2014,12/31/2014
+186,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Outpatient,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+187,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Skilled Nursing Facility,$0,$0,$0,0%,0%,0%,01/01/2014,12/31/2014
+188,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Durable Medical Equipment,$18,$32,$24,0.1%,0.17%,0.12%,01/01/2014,12/31/2014
+189,HELEN KELLER HOSPITAL,10019,AL,During Index Hospital Admission,Carrier,$1124,$1435,$1514,6.14%,7.71%,7.56%,01/01/2014,12/31/2014
+190,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Home Health Agency,$987,$898,$771,5.39%,4.83%,3.85%,01/01/2014,12/31/2014
+191,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Hospice,$186,$141,$118,1.02%,0.76%,0.59%,01/01/2014,12/31/2014
+192,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Inpatient,$2665,$2607,$2665,14.56%,14.02%,13.31%,01/01/2014,12/31/2014
+193,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Outpatient,$448,$596,$710,2.45%,3.2%,3.54%,01/01/2014,12/31/2014
+194,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Skilled Nursing Facility,$3532,$2437,$3251,19.29%,13.1%,16.23%,01/01/2014,12/31/2014
+195,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Durable Medical Equipment,$82,$124,$101,0.45%,0.67%,0.5%,01/01/2014,12/31/2014
+196,HELEN KELLER HOSPITAL,10019,AL,1 through 30 days After Discharge from Index Hospital Admission,Carrier,$964,$995,$1083,5.27%,5.35%,5.41%,01/01/2014,12/31/2014
+197,HELEN KELLER HOSPITAL,10019,AL,Complete Episode,Total,$18306,$18597,$20025,100%,100%,100%,01/01/2014,12/31/2014
+198,DALE MEDICAL CENTER,10021,AL,1 to 3 days Prior to Index Hospital Admission,Home Health Agency,$8,$14,$13,0.05%,0.07%,0.07%,01/01/2014,12/31/2014
+199,DALE MEDICAL CENTER,10021,AL,1 to 3 days Prior to Index Hospital Admission,Hospice,$0,$1,$1,0%,0.01%,0%,01/01/2014,12/31/2014
