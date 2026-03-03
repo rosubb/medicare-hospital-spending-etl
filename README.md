@@ -58,4 +58,36 @@ Validation Queries
 ---
 
 ## 📁 Project Structure
+## 📊 Example Output
 
+After running the pipeline, the processed dataset contains:
+
+- Standardized column names
+- Removed duplicates
+- Null value handling
+- Derived metrics (e.g., cost_per_discharge)
+
+Example columns:
+
+hospital_name  
+claim_type  
+total_payments  
+discharges  
+cost_per_discharge
+
+## 🧪 Data Validation
+
+Basic validation checks include:
+
+- No duplicate rows
+- No completely empty rows
+- Missing values handled
+- Numeric columns properly cast
+
+  ## 🔮 Future Improvements
+
+- Add automated unit tests
+- Dockerize the pipeline
+- Schedule ETL with Airflow
+- Add CI/CD with GitHub Actions
+- Deploy to cloud (AWS / GCP)
