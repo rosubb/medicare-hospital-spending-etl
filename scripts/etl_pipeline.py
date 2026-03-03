@@ -8,8 +8,33 @@ def extract(path: Path) -> pd.DataFrame:
     return pd.read_csv(path)
 
 def transform(df: pd.DataFrame) -> pd.DataFrame:
+    # standardize column names
+    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
+
+    # drop exact duplicates
     df = df.drop_duplicates()
-    df = df.fillna(0)
+
+    # remove rows that are completely empty
+    df = df.dropna(how="all")
+
+    # try converting numeric-looking columns
+    for col in df.columns:
+        if df[col].dtype == "object":
+            # attempt numeric conversion where possible
+            df[col] = pd.to_numeric(df[col], errors="ignore")
+
+    # fill missing values (simple rule: numeric -> 0, text -> "Unknown")
+    for col in df.columns:
+        if pd.api.types.is_numeric_dtype(df[col]):
+            df[col] = df[col].fillna(0)
+        else:
+            df[col] = df[col].fillna("Unknown")
+
+    # example derived metric (only if columns exist)
+    if "total_payments" in df.columns and "discharges" in df.columns:
+        denom = df["discharges"].replace(0, pd.NA)
+        df["cost_per_discharge"] = df["total_payments"] / denom
+
     return df
 
 def load(df: pd.DataFrame, path: Path) -> None:
